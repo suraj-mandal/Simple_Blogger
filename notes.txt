@@ -1,0 +1,10 @@
+CREATING TEMPLATES
+
+Templates are created since we need to pass the html files to be rendered by the django application.
+Templates are the html files that are returned by the function in the views.py file to be rendered when a particular
+pattern is mapped in the url.
+
+
+EMAILS
+
+Allowing users to reset their password
